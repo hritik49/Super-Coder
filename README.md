@@ -56,7 +56,7 @@ Feel free to contribute by following these steps:
 
 ## 📧 Contact
 For any inquiries, reach out via email at:
-- **Email**: info@supercoder.com
+- **Email**: supercoder@gmail.com
 - **Website**: [Super Coder](https://supercoder.com)
 
 ## 📄 License
