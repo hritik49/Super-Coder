@@ -1,6 +1,3 @@
-# Super-Coder
- An e-learning website built using HTML, CSS, and Bootstrap.
-
 # Super Coder: Online Learning Platform
 
 ## 🌟 Introduction
